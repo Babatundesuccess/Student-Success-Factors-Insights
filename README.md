@@ -1,9 +1,9 @@
 # Student-Success-Factors-Insights
-This dataset contains information of 6,607 students and the factors that may affect their academic performance. It includes variables such as study habits, attendance, parental involvement, access to resources, internet access, school types, and gender. Academic results are measured through previous and final exam scores.
+This dataset contains information on 6,607 students, along with the factors that may influence their academic performance. It includes variables such as study habits, attendance, parental involvement, access to resources, internet access, school types, and gender. Academic results are measured through previous and final exam scores.
 # 📊 Academic Performance Data Analysis Project
 
 ## 📘 Project Overview
-This project investigates **seven key parameters** that influence students' academic performance using **Microsoft Excel** for statistical analysis and **Power BI** for visualization.  
+This project examines **seven key parameters** that impact students' academic performance, utilizing **Microsoft Excel** for statistical analysis and **Power BI** for visualization.  
 The dataset contains **6,607 observations**, representing students’ exam scores and various learning-related factors.
 
 The analysis applies:
