@@ -148,7 +148,7 @@ The effect of gender on exam scores is statistically insignificant. Both male an
 
 ## 🧠 Key Insights
 - **Attendance and study hours** are the most powerful predictors of academic success.
-- **Access to educational resources and internet** greatly enhance student performance.
+- **Access to educational resources and internet** greatly enhances student performance.
 - **Teacher quality** significantly influences outcomes, emphasizing the importance of teacher training.
 - **School type and gender** have minimal to no significant effects on exam results.
 
@@ -156,15 +156,12 @@ The effect of gender on exam scores is statistically insignificant. Both male an
 
 ## 🎨 Visualization Summary (Power BI)
 The dataset was visualized in Power BI using:
-- **Clustered Column Charts** (for comparing groups)
-- **Line Charts** (for showing trends over attendance and study hours)
-- **Bar Charts** (for access categories)
-
-Color Scheme:
-- Blue gradient for academic performance metrics  
-- Green tones for positive effects (e.g., attendance, study hours)  
-- Neutral gray for non-significant variables  
-
+- **Clustered Column Charts** (for hours studied)
+- **Line Charts** (for showing trends over internet access and attendance)
+- **Waterfall Charts** (for access categories)
+- **Pie Chart** (for gender)
+- **Area Chart** (for school types and teachers' quality)
+  
 ---
 
 ## 🧾 Conclusion
