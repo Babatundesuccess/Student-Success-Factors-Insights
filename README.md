@@ -1,6 +1,7 @@
 # Student-Success-Factors-Insights
 
-<!-- Uploading "graduation-4502797_1280.jpg"... -->
+
+<img width="613" height="424" alt="Image" src="https://github.com/user-attachments/assets/4d0e4cae-af3f-4683-b469-3b54ec7aff9c" />
 
 <img width="906" height="540" alt="Image" src="https://github.com/user-attachments/assets/cd78e1a7-a7b1-4a19-bdd3-41c3fa199437" />
 
