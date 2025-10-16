@@ -1,4 +1,6 @@
 # Student-Success-Factors-Insights
+
+https://github.com/Babatundesuccess/Student-Success-Factors-Insights/issues/3
 This dataset contains information on 6,607 students, along with the factors that may influence their academic performance. It includes variables such as study habits, attendance, parental involvement, access to resources, internet access, school types, and gender. Academic results are measured through previous and final exam scores.
 # 📊 Academic Performance Data Analysis Project
 
