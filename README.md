@@ -3,8 +3,6 @@
 
 <img width="613" height="424" alt="Image" src="https://github.com/user-attachments/assets/4d0e4cae-af3f-4683-b469-3b54ec7aff9c" />
 
-<img width="906" height="540" alt="Image" src="https://github.com/user-attachments/assets/cd78e1a7-a7b1-4a19-bdd3-41c3fa199437" />
-
 
 This dataset contains information on 6,607 students, along with the factors that may influence their academic performance. It includes variables such as study habits, attendance, parental involvement, access to resources, internet access, school types, and gender. Academic results are measured through previous and final exam scores.
 # 📊 Academic Performance Data Analysis Project
