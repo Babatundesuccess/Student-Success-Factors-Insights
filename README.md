@@ -180,3 +180,14 @@ Efforts to improve **attendance policies**, **digital access**, and **teacher ef
 ## 🏁 Final Note
 All analyses were performed using **Microsoft Excel’s Data Analysis ToolPak**.  
 Results were validated using pivot tables and Power BI dashboards for accurate interpretation and visual storytelling.
+
+
+## 📬 Contact
+
+For collaboration, data analytics projects, or inquiries, feel free to reach out:
+
+- **📧 Email:** [babatundejimoh010@yahoo.com](mailto:babatundejimoh010@yahoo.com)  
+- **💼 LinkedIn:** [Babatunde Jimoh](https://www.linkedin.com/in/babatundejimoh)
+
+I'm always open to connecting with fellow data professionals and exploring new analytical challenges!
+
